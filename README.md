@@ -14,7 +14,7 @@
 
 ![Descripción](/images/corr_stand.png)
 
-![Descripción](/images/corr_stand.png “Título”)
+
 
 `Esto es una línea de código`
 
@@ -35,6 +35,6 @@ Puedes añadir tantas líneas y párrafos como quieras.
 
 ![nombre de la imagen1][img1]
  
-[img1]: /images/corr_stand.png "Título alternativo"
+[img1]: /images/corr_stand.png
 
 
